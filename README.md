@@ -5,3 +5,4 @@
 <p>02.04.2023: Learn CSS Colors by Building a Set of Colored Markers</p>
 <p>02.05.2023: Learn HTML Forms by Building a Registration Form</p>
 <p>02.07.2023: Certification Project: Survey Form</p>
+<p>02.10.2023: Learn the CSS Box Model by Building a Rothko Painting
