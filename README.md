@@ -9,3 +9,4 @@
 <p>02.07.2023: Certification Project: Survey Form</p>
 <p>02.10.2023: Learn the CSS Box Model by Building a Rothko Painting
 <p>02.11.2023: Learn Flexbox with Photo Gallery</p>
+<p>02.13.2023: Learn Typography by Building a Nutrition Label</p>
