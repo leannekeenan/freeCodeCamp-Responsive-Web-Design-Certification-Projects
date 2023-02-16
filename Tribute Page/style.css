@@ -1,0 +1,22 @@
+
+body{
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 25px auto;
+    
+}
+
+  #tribute-info ul {
+    text-align: left;
+    width: 70%;
+    margin: 25px auto;
+  }
+
+  #tribute-recipient, #tribute-info {
+    background-color: #F5F5F5;
+  }
