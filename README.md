@@ -11,4 +11,5 @@
 <p>02.11.2023: Learn Flexbox with Photo Gallery</p>
 <p>02.13.2023: Learn Typography by Building a Nutrition Label</p>
 <p>02.14.2023: Learn Accessability by Building a Quiz Form</p>
-<p>02.15.2023 - Certification Project: Tribute Form</p>
+<p>02.15.2023: Certification Project: Tribute Form</p>
+<p>02.16.2023: Learn More About CSS Pseudo Selectors By Building A Balance Sheet
