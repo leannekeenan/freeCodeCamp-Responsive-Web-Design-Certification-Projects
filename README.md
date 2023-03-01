@@ -14,3 +14,4 @@
 <p>02.15.2023: Certification Project: Tribute Form</p>
 <p>02.16.2023: Learn More About CSS Pseudo Selectors By Building A Balance Sheet
 <p>02.24.2023: Learn Intermediate CSS by Building a Picasso Painting</p>
+<p>02.28.2023: Learn Responsive Web Design by Building a Piano, Completed</p>
