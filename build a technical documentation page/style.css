@@ -1,0 +1,13 @@
+#navbar {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #navbar a {
+    display: flex;
+    justify-content: flex-start; 
+  }
+  
+  @media(max-width: 500px) {
+  
+  }
