@@ -16,4 +16,5 @@
 <p>02.24.2023: Learn Intermediate CSS by Building a Picasso Painting</p>
 <p>02.28.2023: Learn Responsive Web Design by Building a Piano, Completed</p>
 <p>03.08.2023: Technical Documentation Page</p>
-<p>03.09.2023: LEarn CSS Variables by Building a City Skyline</p>
+<p>03.09.2023: Learn CSS Variables by Building a City Skyline</p>
+<p>03.10.2023: Learn CSS Grid by Building a Magazine</p>
