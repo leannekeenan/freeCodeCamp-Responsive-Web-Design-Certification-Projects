@@ -1,0 +1,23 @@
+* {
+    border: 1px solid red;
+}
+
+body{
+    height: 100dvh;
+}
+
+#nav-bar {
+    position: fixed;
+    padding: 1rem;
+   
+}
+
+
+  
+  
+@media (max-width: 800px) {
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+}
