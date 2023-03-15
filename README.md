@@ -25,3 +25,5 @@
 
 <p>03.12.2023: Learn CSS Animation by Building a Ferris Wheel</p>
 <p>03.14.2023: Learn CSS Transforms by Building a Penguin</p>
+<p>03.15.2023: Build Personal Portfolio</p>
+<p>03.15.2023: (New) Responsive Web Design Certification</p>
