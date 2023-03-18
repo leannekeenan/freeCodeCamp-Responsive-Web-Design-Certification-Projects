@@ -1,7 +1,7 @@
 # freeCodeCamp-Responsive-Web-Design-Certification
 
 <h1>Hello and welcome.  This wil be a repositiory for all assignments associated with the freeCodeCamp (new) Web Development Design Certification program.</h1>
-<p align="center"><img src="https://www.freecodecamp.org/certification/Leanne_Keenan/responsive-web-design" alt="certificate"></p>
+<p align="center"><img src="https://freecodecamp.org/certification/Leanne_Keenan/responsive-web-design" alt="certificate"></p>
 
 <p>02.02.2023: Learn HTML by Building a Cat Photo App</p>
 <p>02.03.2023: Learn Basic CSS by Building a Cafe Menu</p>
