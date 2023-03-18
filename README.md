@@ -1,6 +1,6 @@
-# freeCodeCamp-Responsive-Web-Design-Certification
+<h1 align="center">freeCodeCamp Responsive Web Design Certification</h1>
 
-<h1>Hello and welcome.  This wil be a repositiory for all assignments associated with my completion of the freeCodeCamp (new) Web Development Design Certification program.</h1>
+<h2 align="center">Hello and welcome.  This wil be a repositiory for all assignments associated with my completion of the freeCodeCamp (new) Web Development Design Certification program.</h2>
 <p align="center"><img src="https://i.ibb.co/1G19TKD/New-Responsive-Web-Design-Certification.png" alt="certificate"></p>
 
 <p>02.02.2023: Learn HTML by Building a Cat Photo App</p>
