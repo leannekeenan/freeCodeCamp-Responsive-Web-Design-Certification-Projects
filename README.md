@@ -1,4 +1,4 @@
-<h1>Free Code Camp Certification: Responsive Web Design</h1>
+<h1 align="center">Free Code Camp Certification: Responsive Web Design</h1>
 
 <p>
 The freeCodeCamp web design certification is a program that teaches you the fundamentals of 
