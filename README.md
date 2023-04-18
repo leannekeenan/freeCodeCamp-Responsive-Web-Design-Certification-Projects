@@ -1,7 +1,28 @@
-<h1 align="center">freeCodeCamp Responsive Web Design Certification</h1>
+<h1>Free Code Camp Certification: Responsive Web Design</h1>
 
-<p align="center">Hello and welcome.  This wil be a repositiory for all assignments associated with my completion of the freeCodeCamp (new) Web Development Design Certification program.</p>
-<p align="center"><img src="https://i.ibb.co/1G19TKD/New-Responsive-Web-Design-Certification.png" alt="certificate"></p>
+<p>
+The freeCodeCamp web design certification is a program that teaches you the fundamentals of 
+web design, including HTML, CSS, and responsive design. The program also covers topics such 
+as design principles, typography, and color theory. To earn the certification, you must 
+complete a series of projects that demonstrate your understanding of these concepts. 
+These projects include building responsive websites, creating visual designs, and debugging 
+code. 
+</p>
+
+<span>
+To get started on your owncertification, visti here: <a href="https://www.freecodecamp.org/">
+https://www.freecodecamp.org/</a>
+</span>
+
+<p align="center">
+<img src="https://i.ibb.co/1G19TKD/New-Responsive-Web-Design-Certification.png" alt="certificate">
+</p>
+
+<h2>
+How It's Made:
+</h2>
+
+<h3>Each project has a specific lesson designed to illustrate common practices in CSS & HTML. </h3>
 
 <p>02.02.2023: Learn HTML by Building a Cat Photo App</p>
 <p>02.03.2023: Learn Basic CSS by Building a Cafe Menu</p>
@@ -28,3 +49,33 @@
 <p>03.14.2023: Learn CSS Transforms by Building a Penguin</p>
 <p>03.15.2023: Build Personal Portfolio</p>
 <p>03.15.2023: (New) Responsive Web Design Certification</p>
+
+
+<h2>
+Lessons Learned:
+</h2>
+
+<ol>
+     <li>Basic HTML and HTML5</li>
+     <li>Basic CSS</li>
+     <li>Applied Visual Design</li>
+     <li>Applied Accessibility</li>
+     <li>Responsive Web Design Principles</li>
+     <li>CSS Flexbox</li>
+     <li>CSS Grid</li>
+     <li>Responsive Web Design Projects</li>     
+</ol>
+
+<h2>
+Examples:
+</h2>
+
+<p>
+Projects I have worked on similar to this include:
+</p>
+
+<ul>
+   <li> 
+	<a href="https://github.com/leannekeenan/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification-Course"> JavaScript Algorithms and Data Structures Certification Course </a>
+   </li>
+</ul>
