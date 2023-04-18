@@ -76,6 +76,6 @@ Projects I have worked on similar to this include:
 
 <ul>
    <li> 
-	JavaScript Algorithms and Data Structures Ceertification Course <a href="https://github.com/leannekeenan/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification-Course"> https://github.com/leannekeenan/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification-Course </a>
+	FreeCodeCamp JavaScript Algorithms and Data Structures Ceertification Course <a href="https://github.com/leannekeenan/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification-Course"> https://github.com/leannekeenan/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification-Course </a>
    </li>
 </ul>
